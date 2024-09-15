@@ -1,4 +1,4 @@
-# rawberth Static
+# rawberth Pixels
 
 These are some images created for a myriad of purposes.
 
@@ -15,9 +15,15 @@ Created for Discord servers<br>
 <img src="created/mcceoteam1.webp" width=32 height=32> <img src="created/mcceoteam2.webp" width=32 height=32>
 
 ## Remade or otherwise altered
-<img src="remade/linux_xmas.webp" width=32 height=32> <img src="remade/sleep.png" width=32 height=32> <img src="remade/heart.png" width=32 height=32> <img src="remade/gamersoutreach.webp" width=32 height=32> <img src="remade/booster.png" width=32 height=32> <img src="remade/pepeomg.png" width=32 height=32>
+<img src="remade/linux_xmas.webp" width=32 height=32> <img src="remade/ninasimone.png" width=32 height=32>
 <br>
-<img src="remade/pepecoffeehiss.gif" width=32 height=32> <img src="remade/pepecoffeelook.png" width=32 height=32> <img src="remade/pepedrive.gif" width=32 height=32> <img src="remade/pepekeybang.gif" width=32 height=32> <img src="remade/pepewaveover.gif" width=32 height=32> <img src="remade/pepewaveside.gif" width=32 height=32>
+<br>
+<img src="remade/sleep.png" width=32 height=32> <img src="remade/heart.png" width=32 height=32> <img src="remade/pepekeybang.gif" width=32 height=32> <img src="remade/pepeomg.png" width=32 height=32> <img src="remade/pepestudy.png" width=32 height=32>
+<br>
+<img src="remade/pepecoffeehiss.gif" width=32 height=32> <img src="remade/pepecoffeelook.png" width=32 height=32> <img src="remade/pepedrive.gif" width=32 height=32> <img src="remade/pepewaveover.gif" width=32 height=32> <img src="remade/pepewaveside.gif" width=32 height=32>
+<br>
+<br>
+<img src="remade/newdawnlove.gif" width=32 height=32> <img src="remade/newdawnrock.gif" width=32 height=32> <img src="remade/newdawnspin.gif" width=32 height=32> <img src="remade/newdawnturn.gif" width=32 height=32>
 
 ## Shamelessly stolen
 <img src="stolen/onering.webp" width=32 height=32> <img src="stolen/python.webp" width=32 height=32> <img src="stolen/linux.webp" width=32 height=32> <img src="stolen/openbsd.webp" width=32 height=32> <img src="stolen/pepehide.webp" width=32 height=32>

@@ -23,7 +23,7 @@ Created for Discord servers<br>
 <img src="remade/pepecoffeehiss.gif" width=32 height=32> <img src="remade/pepecoffeelook.png" width=32 height=32> <img src="remade/pepedrive.gif" width=32 height=32> <img src="remade/pepewaveover.gif" width=32 height=32> <img src="remade/pepewaveside.gif" width=32 height=32>
 <br>
 <br>
-<img src="remade/newdawnlove.gif" width=32 height=32> <img src="remade/newdawnrock.gif" width=32 height=32> <img src="remade/newdawnspin.gif" width=32 height=32> <img src="remade/newdawnturn.gif" width=32 height=32>
+<img src="remade/newdawnpink.gif" width=32 height=32> <img src="remade/newdawnlove.gif" width=32 height=32> <img src="remade/newdawnrock.gif" width=32 height=32> <img src="remade/newdawnspin.gif" width=32 height=32> <img src="remade/newdawnturn.gif" width=32 height=32>
 
 ## Shamelessly stolen
 <img src="stolen/onering.webp" width=32 height=32> <img src="stolen/python.webp" width=32 height=32> <img src="stolen/linux.webp" width=32 height=32> <img src="stolen/openbsd.webp" width=32 height=32> <img src="stolen/pepehide.webp" width=32 height=32>
